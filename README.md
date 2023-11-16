@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JMJarvis1
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, and CSS. I will probably go on to JS from there. 
-- 💞️ I'm new to web development, so I’m not really currently looking to collaborate. 
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Pythom. 
+- 💞️ I’m not currently looking to collaborate. 
 - 📫 I can be reached at JMJARVIS1#9141 on Discord.
 
 <!---
