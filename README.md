@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JMJarvis1
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Pythom. 
+- 🌱 I’m currently learning Python. 
 - 💞️ I’m not currently looking to collaborate. 
 - 📫 I can be reached at JMJARVIS1#9141 on Discord.
 
